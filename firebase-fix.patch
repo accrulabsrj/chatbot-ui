@@ -1,0 +1,7 @@
+--- a/package.json
++++ b/package.json
+@@ -96,7 +96,8 @@
+   "uuid": "^9.0.1",
+   "zod": "^3.22.4",
++  "firebase": "^10.7.1"
+ },
